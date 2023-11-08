@@ -12,4 +12,10 @@
 <td> 120 ms </td>
 <td> 20.4 mb </td>
 </tr>
+<tr>
+<td> <a href="https://leetcode.com/submissions/detail/1094639068/"> 2023-11-08 19:18:37 </a> </td>
+<td> <a href="./0238.%20Product%20of%20Array%20Except%20Self.go"> Go </a> </td>
+<td> 17 ms </td>
+<td> 7 mb </td>
+</tr>
 </table>
